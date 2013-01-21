@@ -1,19 +1,20 @@
-CodeIgniter-Project-Template
+CodeIgniter-Project-Template-And-Auth
 ====================
 
-CodeIgniter-Project-Template is a complete package to quickly start your project.
+Codeigniter base project:
 
 
 Requirements
 ------------
 
-1. PHP 5.1+
+1. PHP 5.2+
 
 Includes
 ---------
 Template Library from philsturgeon
 Asset Library from philsturgeon
 Modular Separation from wiredesignz
+Ion_Auth Authentication
 
 Documentation
 -------------
