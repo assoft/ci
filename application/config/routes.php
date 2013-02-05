@@ -48,5 +48,6 @@ $route['admin/logout'] = 'admin/logout';
 $route['admin/([a-zA-Z_-]+)'] = '$1/admin/index';
 $route['admin'] = 'admin';
 
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

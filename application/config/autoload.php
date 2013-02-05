@@ -52,7 +52,7 @@ $autoload['packages'] = array(APPPATH.'third_party');
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array('template','asset');
+$autoload['libraries'] = array('template','asset', 'form_validation', 'session', 'Ion_auth');
 
 
 /*
@@ -64,7 +64,7 @@ $autoload['libraries'] = array('template','asset');
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','asset','Language');
+$autoload['helper'] = array('url','asset','Language', 'form');
 
 
 /*
